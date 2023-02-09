@@ -74,6 +74,7 @@ class MultiMonitorsAddOn {
 
         this._mmMonitors = 0;
         this.syncWorkspacesActualGeometry = null;
+		this.stateAdjustment = 0;
     }
 
     _showIndicator() {
